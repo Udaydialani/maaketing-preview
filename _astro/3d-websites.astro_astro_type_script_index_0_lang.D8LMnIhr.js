@@ -1,2 +1,2 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["_astro/story.Cf31JNyj.js","_astro/brand-geo.DB1Rac04.js"])))=>i.map(i=>d[i]);
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["maaketing-preview/_astro/story.Cf31JNyj.js","maaketing-preview/_astro/brand-geo.DB1Rac04.js"])))=>i.map(i=>d[i]);
 import{t as e}from"./preload-helper.CxFQXtKk.js";var t=()=>e(()=>import(`./story.Cf31JNyj.js`).then(e=>e.initStory()),__vite__mapDeps([0,1]));`requestIdleCallback`in window?requestIdleCallback(t,{timeout:1200}):setTimeout(t,250);
